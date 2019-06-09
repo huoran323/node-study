@@ -36,3 +36,5 @@ lucy.emit("speak", "I want a curry");
 
 // 调用事件
 // myEmitter.emit('someEvent', 'the event was emitted');
+
+console.log("test");
