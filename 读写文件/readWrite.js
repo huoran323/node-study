@@ -11,3 +11,5 @@ fs.writeFileSync("writeMe.txt", "hello world");
 var readMe2 = fs.readFile("readMe.txt", "utf8", function(err, data) {
   console.log(data);
 });
+
+console.log("finished");
